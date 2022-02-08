@@ -1,6 +1,6 @@
-# Hydrogen App
+# Builder.io + Shopify Hydrogen - headless visual page building demo
 
-Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
+Example repo using Builder.io for drag and drop page building with Shopify hydrogen
 
 [Check out the docs](https://shopify.dev/custom-storefronts/hydrogen)
 
