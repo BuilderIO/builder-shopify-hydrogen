@@ -11,7 +11,8 @@ export default function Page() {
     return await builder
       .get('page', {
         userAttributes: {
-          urlPath: '/landing/foo',
+          urlPath:
+            '/landing/foo' /* TODO: when working, this should be url.pathname */,
         },
       })
       .promise();
