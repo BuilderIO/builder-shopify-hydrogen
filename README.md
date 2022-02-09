@@ -2,9 +2,9 @@
 
 Example repo using Builder.io for drag and drop page building with Shopify hydrogen
 
-[Check out the hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
-
-See [./src/pages/landing/[handle].server.jsx](./src/pages/landing/[handle].server.jsx) for where we integrate Builder.io
+- [Check out the hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
+- See [./src/pages/landing/[handle].server.jsx](./src/pages/landing/[handle].server.jsx) for where we integrate Builder.io
+- [Learn more about Builder.io](https://github.com/builderio/builder)
 
 ## Getting started
 
