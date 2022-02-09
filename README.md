@@ -6,6 +6,8 @@ Example repo using Builder.io for drag and drop page building with Shopify hydro
 - See [./src/pages/landing/[handle].server.jsx](./src/pages/landing/[handle].server.jsx) for where we integrate Builder.io
 - [Learn more about Builder.io](https://github.com/builderio/builder)
 
+![Demo](https://user-images.githubusercontent.com/844291/153227170-93e82c34-c2a4-43f9-a858-2c32753dd085.gif)
+
 ## Getting started
 
 **Requirements:**
