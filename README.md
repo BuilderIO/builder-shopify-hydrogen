@@ -1,4 +1,4 @@
-# Builder.io + Shopify Hydrogen - headless visual page building demo
+# Builder.io + Shopify Hydrogen - headless visual page building example
 
 Example repo using Builder.io for drag and drop page building with Shopify hydrogen
 
