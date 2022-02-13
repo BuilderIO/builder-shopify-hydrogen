@@ -8,6 +8,19 @@ Example repo using Builder.io for drag and drop page building with Shopify hydro
 
 ![Demo](https://user-images.githubusercontent.com/844291/153227170-93e82c34-c2a4-43f9-a858-2c32753dd085.gif)
 
+## Get Started
+
+- Clone this project: `git clone https://github.com/BuilderIO/builder-shopify-hydrogen`
+- Install dependencies: `cd builder-shopify-hydrogen; yarn`
+- Run the server: `yarn dev`
+- Create a free account at [builder.io](https://www.builder.io)
+- Go to [builder.io/models] and change the preview URL to `http://localhost:3000`
+- Create a new page, e.g. with url `/landing/testing`
+- Explore the drag and drop editor
+- Hit publish, then go to `http://localhost:3000/landing/testing` and see your page!
+
+Explore more in the [Builder.io developer docs](https://www.builder.io/m/developers)
+
 ## Why Builder.io?
 
 Hardcoding layouts for frequently changing content bottlenecks your team and makes releases messy
