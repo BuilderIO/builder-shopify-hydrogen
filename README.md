@@ -19,7 +19,7 @@ Example repo using Builder.io for drag and drop page building with Shopify hydro
 - Explore the drag and drop editor
 - Hit publish, then go to `http://localhost:3000/landing/testing` and see your page!
 
-Explore more in the [Builder.io developer docs](https://www.builder.io/m/developers)
+Explore more in the [Builder.io developer docs](https://www.builder.io/c/docs/developers)
 
 ## Why Builder.io?
 
