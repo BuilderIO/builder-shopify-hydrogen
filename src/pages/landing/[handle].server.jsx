@@ -1,5 +1,5 @@
 import {useQuery} from '@shopify/hydrogen';
-import {builder} from '@builder.io/react';
+import {Builder, builder} from '@builder.io/react';
 import BuilderComponent from '../../components/BuilderComponent.client';
 import Layout from '../../components/Layout.server';
 
@@ -16,11 +16,7 @@ export default function Page(props) {
 
   return (
     <Layout>
-      {!content.data ? (
-        'Loading...'
-      ) : (
-        <BuilderComponent model="page" content={content.data} />
-      )}
+      <BuilderComponent model="page" content={content?.data} />
     </Layout>
   );
 }
