@@ -1,5 +1,5 @@
 import {useQuery} from '@shopify/hydrogen';
-import {Builder, builder} from '@builder.io/react';
+import {builder} from '@builder.io/react';
 import BuilderComponent from '../../components/BuilderComponent.client';
 import Layout from '../../components/Layout.server';
 import NotFound from '../../components/NotFound.server';
