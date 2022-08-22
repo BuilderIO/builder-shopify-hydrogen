@@ -1,5 +1,5 @@
 {
-  "name": "hydrogen-app",
+  "name": "builder-shopify-hydrogen",
   "description": "Demo store template for @shopify/hydrogen",
   "version": "0.0.0",
   "license": "MIT",
@@ -34,7 +34,7 @@
   },
   "prettier": "@shopify/prettier-config",
   "dependencies": {
-    "@builder.io/react": "^2.0.1",
+    "@builder.io/react": "dev",
     "@builder.io/widgets": "^1.2.22",
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
@@ -47,5 +47,6 @@
     "title": "^3.4.4",
     "typographic-base": "^1.0.4"
   },
-  "author": "dylan"
+  "author": "Dylan Kendal<dylan@builder.io>",
+  "packageManager": "yarn@3.2.1"
 }
