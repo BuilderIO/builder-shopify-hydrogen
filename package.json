@@ -34,7 +34,7 @@
   },
   "prettier": "@shopify/prettier-config",
   "dependencies": {
-    "@builder.io/react": "dev",
+    "@builder.io/react": "2.0.2-9",
     "@builder.io/widgets": "^1.2.22",
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
