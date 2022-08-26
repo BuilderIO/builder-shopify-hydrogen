@@ -4,6 +4,11 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": ">=16.4.0",
+    "yarn": ">=1.0.0",
+    "npm": ">=0.0.0"
+  },
   "scripts": {
     "dev": "shopify hydrogen dev",
     "build": "shopify hydrogen build",
