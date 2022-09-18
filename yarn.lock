@@ -386,11 +386,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@builder.io/react@npm:2.0.2-9":
-  version: 2.0.2-9
-  resolution: "@builder.io/react@npm:2.0.2-9"
+"@builder.io/react@npm:2.0.5":
+  version: 2.0.5
+  resolution: "@builder.io/react@npm:2.0.5"
   dependencies:
-    "@builder.io/sdk": 1.1.27-5
+    "@builder.io/sdk": ^1.1.28
     "@emotion/core": ^10.0.17
     hash-sum: ^2.0.0
     node-fetch: ^2.6.1
@@ -405,18 +405,18 @@ __metadata:
       optional: true
     prop-types:
       optional: true
-  checksum: d2b3b903b7781097c8d44a968c33262758a43292dc1eb88ebbdff1db513c32a254e8fbc11120161927dfb46a7fd1739d16658b21032fba8b7eef1b5375f34523
+  checksum: b7f39bdf767b4f7e66c3c3e47e209944c0d405b38b3f766565d40aa7bbf56fe48ee129da0c89106314adda15cbe2399db69883e3794d02657ce29166843b3be1
   languageName: node
   linkType: hard
 
-"@builder.io/sdk@npm:1.1.27-5":
-  version: 1.1.27-5
-  resolution: "@builder.io/sdk@npm:1.1.27-5"
+"@builder.io/sdk@npm:^1.1.28":
+  version: 1.1.28
+  resolution: "@builder.io/sdk@npm:1.1.28"
   dependencies:
     hash-sum: ^2.0.0
     node-fetch: ^2.3.0
     tslib: ^1.10.0
-  checksum: f321b66e194835a15c41265f9add9b91e56456c587ab6495e88a8a2c271cf143e21ee002f0c015819ec3152e8b62be68c662e25b971bf25378330d4550580312
+  checksum: bb1d81e02fdbd980c88d1203a002734263f1321bdff51b50c87d59715cc279ecce478ef6f9b159a6422ab43f9f03a6a925a17f94e22183251f71fce008cc894d
   languageName: node
   linkType: hard
 
@@ -2553,7 +2553,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "builder-shopify-hydrogen@workspace:."
   dependencies:
-    "@builder.io/react": 2.0.2-9
+    "@builder.io/react": 2.0.5
     "@builder.io/widgets": ^1.2.22
     "@headlessui/react": ^1.6.4
     "@heroicons/react": ^1.0.6
