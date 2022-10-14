@@ -386,7 +386,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@builder.io/react@npm:latest":
+"@builder.io/react@npm:2.0.10":
   version: 2.0.10
   resolution: "@builder.io/react@npm:2.0.10"
   dependencies:
@@ -2553,7 +2553,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "builder-shopify-hydrogen@workspace:."
   dependencies:
-    "@builder.io/react": latest
+    "@builder.io/react": 2.0.10
     "@builder.io/widgets": ^1.2.22
     "@headlessui/react": ^1.6.4
     "@heroicons/react": ^1.0.6
