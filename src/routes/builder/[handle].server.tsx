@@ -7,6 +7,8 @@ import {BuilderComponent} from '~/components/BuilderComponent.client';
 import {useQuery} from '@shopify/hydrogen';
 import {builder} from '@builder.io/react';
 
+// Make sure to replace this placeholder API key with the 
+// API key for your Builder space: https://www.builder.io/c/docs/using-your-api-key#finding-your-public-api-key
 builder.init('cda38653c81344cf8859bd15e4d8e30d');
 
 const MODEL_NAME = 'page';
