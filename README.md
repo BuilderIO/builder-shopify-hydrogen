@@ -12,6 +12,7 @@ Example repo using Builder.io for drag and drop page building with Shopify hydro
 
 - Clone this project: `git clone https://github.com/BuilderIO/builder-shopify-hydrogen`
 - Install dependencies: `cd builder-shopify-hydrogen; yarn`
+- Replace any `builder.init` calls with your API key: https://www.builder.io/c/docs/using-your-api-key#finding-your-public-api-key
 - Run the server: `yarn dev`
 - Create a free account at [builder.io](https://www.builder.io)
 - Go to [builder.io/models](https://builder.io/models), choose the `page` model and change the Editing URL to `http://localhost:3000`
