@@ -1,6 +1,9 @@
 # Builder.io + Shopify Hydrogen - headless visual page building example
 
-## **Note**: *This starter works on *Hydrogen v1*
+# 🚧 🚧 🚧
+## This starter is deprecated.
+
+## **Note**: *This starter works for *Hydrogen v1* only. For Hydrogen V2, visit our [integration guide](https://www.builder.io/c/docs/integrating-builder-pages) and click on the Remix tab in the example code box. There is also a Remix example project that can be found (here)[https://github.com/BuilderIO/builder/tree/main/examples/remix-minimal-starter]. 
 
 Example repo using Builder.io for drag and drop page building with Shopify hydrogen
 
